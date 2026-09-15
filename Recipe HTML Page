@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+  <html lang="en">
+    <head>
+      <meta charset="UTF-8">
+      <title>Shy's Recipies</title>
+    </head>
+    <body>
+      <h1>Baked Mac and Cheese</h1>
+      <p>This simple yet delicious recipe for baked mac and cheese is to die for!</p>
+      <h2>Ingredients</h2>
+      <ul>
+        <li>Pasta Noodles</li>
+        <li>Cheddar Cheese</li>
+        <li>Heavy Whipping Cream</li>
+        <li>Seasonings of your choice</li>
+        <li>Butter</li>
+        <li>Olive Oil</li>
+        <li>Onions</li>
+        <li>Garlic</li>
+      </ul>
+      <h2>Instructions</h2>
+      <ol>
+        <li>Boil pasta noodles until complete and tender. <em>You can add some olive oil to the noodles after to help them not stick</em></li>
+        <li>Take a pan, heat it up and add some oil and butter to the pan. Once heated add in the onions and garlic until fragrent and translusent.</li>
+        <li>Once done with onions, add in some more butter and some heavy whipping cream and stir.</li>
+        <li>After that is combined, add in your cheddar cheese and stir until completed combined</li>
+        <li>Place your pasta noodles in a baking dish and add your cheese sauce ontop of it. Be sure to mix together completely.</li>
+        <li>Add somemore cheese to the top and bake for about 15 minutes or until golden brown at the top.</li>
+      </ol>
+      <img src="https://www.thechunkychef.com/wp-content/uploads/2018/02/Ultimate-Creamy-Baked-Mac-and-Cheese-baking-dish-680x959.jpg" alt="Backed mac and cheese">
+    </body>
+</html>
